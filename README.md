@@ -5,10 +5,9 @@
 
 ## Intention
 
-The world is plagued with these creatures called "oggy".
-"All names are iterated and those beginning with 'oggy' are deleted."
+Oggy is a menace to the society's children. Thus the aim is eliminating oggy.
 
 ## Method
 
 Seek and destroy.
-The intention is elimination of all entities whose name begins with "oggy".
+Itererating through the names, then deleting those starting with "oggy".
