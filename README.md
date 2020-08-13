@@ -10,4 +10,4 @@ Oggy is a menace to the society's children. Thus the aim is eliminating oggy.
 ## Method
 
 Seek and destroy.
-Itererating through the names, then deleting those starting with "oggy".
+Iterating through the names, then deleting those starting with "oggy".
