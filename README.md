@@ -5,7 +5,7 @@
 
 ## Intention
 
-The world is plagued with these creatures called "oggy". 
+The world is plagued with these creatures called "oggy".
 "All names are iterated and those begining with 'oggy' are deleted."
 
 ## Method
