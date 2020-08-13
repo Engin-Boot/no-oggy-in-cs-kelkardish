@@ -3,10 +3,10 @@
 
 ## Intention
 
-This program intends to remove strings containing 'oggy' from a list of strings.
+The world is plagued with these creatures called "oggy". This program intends to remove the existance of all entities whose name begins with "oggy".
 
 ## Method
 
-The code doesn't work according to the intention. Make it succeed.
+Seek and destroy.
 
-Don't forget to update this file after fixing the code.
+The method looks at everyones names and eliminates all those whose name begins with is "oggy"s .
